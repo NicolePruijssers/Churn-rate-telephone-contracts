@@ -1,0 +1,11 @@
+# Power BI Desktop local cache and settings
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Optional: ignore the PBIX export if you don't want to version this binary
+# *.pbix
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
